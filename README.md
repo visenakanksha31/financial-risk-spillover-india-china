@@ -222,8 +222,6 @@ The preliminary analysis suggests different patterns of Banking–Fintech interc
 - China shows substantially higher Fintech volatility.
 - Conditional risk measures indicate differences in sector-level risk relationships.
 
-> **Important:** These observations are preliminary and should not be treated as final causal conclusions until the complete econometric analysis is performed.
-
 ---
 
 # 🧮 Analytical Workflow
@@ -244,7 +242,7 @@ VAR / Connectedness Framework
 India vs China Comparison
         ↓
 Power BI Dashboards
-
+'''text
 ---
 ## Dashboard Preview
 
