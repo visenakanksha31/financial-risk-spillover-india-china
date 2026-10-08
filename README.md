@@ -242,6 +242,9 @@ VAR / Connectedness Framework
 India vs China Comparison
         ↓
 Power BI Dashboards
+```
+
+---
 
 ---
 ## Dashboard Preview
